@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-u can also find my articles on <u><a href="https://scholar.google.com/citations?view_op=search_authors&mauthors=lizeth+tamayo&hl=en&oi=ao">my Google Scholar profile</a>.</u>
+You can also find my articles on <u><a href="https://scholar.google.com/citations?view_op=search_authors&mauthors=lizeth+tamayo&hl=en&oi=ao">my Google Scholar profile</a>.</u>
 
 {% include base_path %}
 

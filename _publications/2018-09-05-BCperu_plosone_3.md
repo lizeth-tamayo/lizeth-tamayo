@@ -6,7 +6,7 @@ excerpt: 'Latina women in the U.S. have relatively low breast cancer incidence c
 date: 2018-9-5
 venue: 'PLoS ONE'
 ---
-[Download paper here](http://lizeth-tamayo.github.io/files/tamayo-bcperu_plsone.pdf)
+[Download paper here](http://lizeth-tamayo.github.io/files/tamayo-bcperu_plosone.pdf)
 
 Abstract
 

@@ -6,7 +6,7 @@ excerpt: 'In human genetics research, it has become common practice for research
 date: 2020-2-18
 venue: 'Public Health Genomics'
 ---
-[Download paper here](http://lizeth-tamayo.github.io/lizeth-tamayo/files/tamayo_ror_publichealthgenomics.pdf)
+[Download paper here](http://lizeth-tamayo.github.io/files/tamayo_ror_publichealthgenomics.pdf)
 
 Abstract
 

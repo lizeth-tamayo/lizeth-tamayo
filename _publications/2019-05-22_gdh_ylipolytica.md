@@ -6,7 +6,7 @@ excerpt: 'Glutamate dehydrogenases (GDHs) are fundamental to cellular nitrogen a
 date: 2019-5-19
 venue: 'Yeast'
 ---
-[Download paper here](http://lizeth-tamayo.github.io/files/trotter_gdh_ylipolytica_yeast_2019.pdf)
+[Download paper here](http://lizeth-tamayo.github.io/files/trotter_gdh_ylipolytica_yeast _2019.pdf)
 
 Abstract
 

@@ -3,7 +3,7 @@ title: "Breast Cancer Risk and Mortality in Women of Latin American Origin"
 collection: publications
 permalink: /publications/2010-10-01-paper-title-number-2/
 excerpt: 'This chapter summarizes works conducted by our group and others on breast cancer risk, characteristics, and survival, in women of Latin American origin, with particular emphasis on observed differences among Latino subgroups.'
-date: 2020-2-18
+date: 2020-12-13
 venue: 'Public Health Genomics'
 ---
 [Download paper here](http://lizeth-tamayo.github.io/files/Fejerman_bcriskandmortality_advscienceofcancerinlatinos_2020.pdf)

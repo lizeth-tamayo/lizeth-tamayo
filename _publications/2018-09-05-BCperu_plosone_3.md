@@ -1,17 +1,15 @@
 ---
-title: "Breast cancer subtype and survival among Indigenous American women in Peru"
-category: publications
-permalink: /publications/2018-09-05-BCperu_plosone_3.md 
-excerpt: 'Latina women in the U.S. have relatively low breast cancer incidence compared to Non-Latina White (NLW) or African American women but are more likely to be diagnosed with the more aggressive “triple negative” breast cancer (TNBC). Latinos in the U.S. are a heterogeneous group originating from different countries with different cultural and ancestral backgrounds. Little is known about the distribution of tumor subtypes in Latin American regions. Clinical records of 303 female Peruvian patients, from the Peruvian National Cancer Institute, were analyzed.'
-date: 2018-09-05
-venue: 'PloS one'
-citation: 'Tamayo, LI, et al., (2018). “Breast cancer subtype and survival among Indigenous American women in Peru.” Plos one. 13(9).  
-http://lizeth-tamayo.github.io/lizeth-tamayo/files/tamayo-bcperu_plosone.pdf
+title: "Paper Title Number 3"
+collection: publications
+permalink: /publication/2015-10-01-paper-title-number-3
+excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
+date: 2015-10-01
+venue: 'Journal 1'
+paperurl: 'http://academicpages.github.io/files/paper3.pdf'
+citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
 ---
+This paper is about the number 3. The number 4 is left for future work.
 
-[Download paper here](http://lizeth-tamayo.github.io/lizeth-tamayo/files/tamayo-bcperu_plosone.pdf)
+[Download paper here](http://academicpages.github.io/files/paper3.pdf)
 
-
-Abstract: Latina women in the U.S. have relatively low breast cancer incidence compared to Non-Latina White (NLW) or African American women but are more likely to be diagnosed with the more aggressive “triple negative” breast cancer (TNBC). Latinos in the U.S. are a heterogeneous group originating from different countries with different cultural and ancestral backgrounds. Little is known about the distribution of tumor subtypes in Latin American regions. Clinical records of 303 female Peruvian patients, from the Peruvian National Cancer Institute, were analyzed.
-
- Recommended citation: Tamayo, I. Lizeth (2018). “Breast cancer subtype and survival among Indigenous American women in Peru.” Plos one. 13(9). https://doi.org/10.1371/journal.pone.0201287
+Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).

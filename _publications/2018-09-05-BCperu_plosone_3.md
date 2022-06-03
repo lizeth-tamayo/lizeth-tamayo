@@ -1,7 +1,7 @@
 ---
 title: "Breast cancer subtype and survival among Indigenous American women in Peru"
 collection: publications
-permalink: /publications/2009-10-01-paper-title-number-1/
+permalink: /publications/2018-09-05-BCperu_plosone_3/
 excerpt: 'Latina women in the U.S. have relatively low breast cancer incidence compared to Non-Latina White (NLW) or African American women but are more likely to be diagnosed with the more aggressive “triple negative” breast cancer (TNBC). Latinos in the U.S. are a heterogeneous group originating from different countries with different cultural and ancestral backgrounds. Little is known about the distribution of tumor subtypes in Latin American regions. '
 date: 2018-9-5
 venue: 'PLoS ONE'

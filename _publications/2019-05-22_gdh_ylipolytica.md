@@ -1,7 +1,7 @@
 ---
 title: "Glutamate dehydrogenases in the oleaginous yeast Yarrowia lipolytica"
 collection: publications
-permalink: /publications/2009-10-01-paper-title-number-1/
+permalink: /publications/2019-05-22_gdh_ylipolytica/
 excerpt: 'Glutamate dehydrogenases (GDHs) are fundamental to cellular nitrogen and energy balance. Yet little is known about these enzymes in the oleaginous yeast Yarrowia lipolytica. The YALI0F17820g and YALI0E09603g genes, encoding potential GDH enzymes in this organism, were examined. Heterologous expression in gdh-null Saccharomyces cerevisiae and examination of Y. lipolytica strains carrying gene deletions demonstrate that YALI0F17820g (ylGDH1) encodes a NADP-dependent GDH whereas YALI0E09603g (ylGDH2) encodes a NAD-dependent GDH enzyme. The activity encoded by these two genes accounts for all measurable GDH activity in Y. lipolytica.'
 date: 2019-5-19
 venue: 'Yeast'

@@ -1,11 +1,11 @@
 ---
 title: "Research participants’ attitudes towards receiving information on genetic susceptibility to arsenic toxicity in rural Bangladesh"
 collection: publications
-permalink: /publications/2009-10-01-paper-title-number-1
+permalink: /publications/2009-10-01-paper-title-number-1/
 venue: 'Public Health Genomics'
 excerpt: 'In human genetics research, it has become common practice for researchers to consider returning genetic information to participants who wish to receive it. Research participants in lower-resource settings may have barriers or competing interests that reduce the benefit or relevance of such information. Thus, the decision to return genetic information in these settings may involve special considerations of participants’ interests and preferences. In this project, our goal was to assess Bangladeshi research participants’ attitudes towards receiving information regarding genetic susceptibility to the effects of consuming arsenic-contaminated drinking water, a serious environmental health concern in Bangladesh and other countries.'
 date: 2020-2-18
-citation: Tamayo et al., (2020). "Research participants’ attitudes towards receiving information on genetic susceptibility to arsenic toxicity in rural Bangladesh." <i>Public Health Genomics</i>. 23(1-2). https://doi.org/10.1159/000505632
+citation: 'Tamayo et al., (2020). "Research participants’ attitudes towards receiving information on genetic susceptibility to arsenic toxicity in rural Bangladesh." <i>Public Health Genomics</i>. 23(1-2). https://doi.org/10.1159/000505632'
 ---
 In human genetics research, it has become common practice for researchers to consider returning genetic information to participants who wish to receive it. Research participants in lower-resource settings may have barriers or competing interests that reduce the benefit or relevance of such information. Thus, the decision to return genetic information in these settings may involve special considerations of participants’ interests and preferences. In this project, our goal was to assess Bangladeshi research participants’ attitudes towards receiving information regarding genetic susceptibility to the effects of consuming arsenic-contaminated drinking water, a serious environmental health concern in Bangladesh and other countries.
 

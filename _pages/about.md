@@ -14,7 +14,7 @@ My Research
 ======
 My research focuses on the interplay between genetic and environmental factors and their impact on complex disase risk in a low-resource and understudied population. 
 
-My research goals are focused on studying chronic diseases that have a substantial public health burden. My goals are to investigate the effects of genetic variation and their connection to environmental and social determinants of ehalth and to leverage this knowledge to alleviate cancer disparities, focusing on understudied and underserved populations. 
+My research goals are focused on studying chronic diseases that have a substantial public health burden. My goals are to investigate the effects of genetic variation and their connection to environmental and social determinants of health and to leverage this knowledge to alleviate cancer disparities, focusing on understudied and underserved populations. 
 
 Education 
 ======
